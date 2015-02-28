@@ -1,0 +1,17 @@
+Software
+==================
+- X interface
+- OpenGL display
+- Media
+	- Codec input
+	- Video output
+	- Audio output
+- Media Library
+	- Automatically sync "interested" files
+		- Newly downloaded
+		- Often listened
+		- Requested
+		- Saved-on-car
+	- Remote torrent to home
+		- Add to auto sync list
+	
