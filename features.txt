@@ -1,0 +1,30 @@
+
+
+
+- Instant interface
+	- Webkit/Blink engine
+	- HTML/CSS
+- Media player
+	- Multiple codecs
+		- FLAC
+		- H264
+		- FFMPEG?
+	- 
+- GPS / navigation
+	- Download map data locally
+	- 
+- Auto wifi
+- Voice command
+- Touch screen
+- Bluetooth
+	- Internet via phone
+	- Bluetooth for phone calls
+	- Music
+- Car metrics
+	- Boost gauge
+	- OBD/II
+- Car diagnostics
+	- Additional sensors to detect mechanical issues
+- Car schematic display
+	- Issue display
+	- 
